@@ -1,2 +1,2 @@
 # CModAPI
-The Officila API for CMod
+The Official API for CMod

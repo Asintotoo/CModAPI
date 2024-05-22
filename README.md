@@ -1,6 +1,6 @@
 ## CModAPI - The Official API for CMod
 
-**Note**: This features is still *Work in Progress*, this might not work as intended!
+**Note**: These features is still *Work in Progress*, this might not work as intended!
 
 How to include the API:
 Simple download the latest version from [here](https://github.com/Asintotoo/CModAPI/releases) and include it in your Spigot Plugin.
